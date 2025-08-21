@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+    },
+    "exclude": [
+        "view/**/*", // 排除 view 目录下的所有文件
+    ]
+}
